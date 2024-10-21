@@ -1,0 +1,132 @@
+INFO:root:Getting recommendations for: The Shawshank Redemption, Index: 0
+INFO:root:Getting recommendations for: Nonexistent Movie, Index: None
+WARNING:root:Movie title 'Nonexistent Movie' not found.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is logged in, displaying movie recommendations.
+INFO:root:Starting the application
+INFO:root:Application started.
+INFO:root:User  is logged in, displaying movie recommendations.
+INFO:root:Starting the application
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is logged in, displaying movie recommendations.
+INFO:root:Starting the application
+INFO:root:Application started.
+INFO:root:User  is logged in, displaying movie recommendations.
+INFO:root:Starting the application
+INFO:root:Application started.
+INFO:root:User  is logged in, displaying movie recommendations.
+INFO:root:Starting the application
+INFO:root:Application started.
+INFO:root:User  is logged in, displaying movie recommendations.
+INFO:root:Starting the application
+INFO:root:Getting recommendations for: The Avengers, Index: 357
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is logged in, displaying movie recommendations.
+INFO:root:Starting the application
+INFO:root:Application started.
+INFO:root:User  is logged in, displaying movie recommendations.
+INFO:root:Starting the application
+INFO:root:Getting recommendations for: The Shawshank Redemption, Index: 0
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is logged in, displaying movie recommendations.
+INFO:root:Starting the application
+INFO:root:Application started.
+INFO:root:User  is logged in, displaying movie recommendations.
+INFO:root:Starting the application
+INFO:root:Application started.
+INFO:root:User  is logged in, displaying movie recommendations.
+INFO:root:Starting the application
+INFO:root:Application started.
+INFO:root:User  is logged in, displaying movie recommendations.
+INFO:root:Starting the application
+INFO:root:Getting recommendations for: The Avengers, Index: 357
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
+INFO:root:Application started.
+INFO:root:User  is not logged in, displaying login form.
