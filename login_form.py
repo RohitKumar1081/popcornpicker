@@ -45,7 +45,7 @@ def main():
             return  # Exit if initialization fails
     
     # Initialize Firebase app
-    firebase = pyrebase4.initialize_app(firebaseConfig)
+    firebase = pyrebase.initialize_app(firebaseConfig)
     auth = firebase.auth()
     db = firebase.database()
 
