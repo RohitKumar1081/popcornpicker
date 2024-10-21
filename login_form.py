@@ -1,5 +1,5 @@
 import streamlit as st
-import pyrebase
+import pyrebase4
 import re
 from datetime import datetime
 import firebase_admin
@@ -45,7 +45,7 @@ def main():
             return  # Exit if initialization fails
     
     # Initialize Firebase app
-    firebase = pyrebase.initialize_app(firebaseConfig)
+    firebase = pyrebase4.initialize_app(firebaseConfig)
     auth = firebase.auth()
     db = firebase.database()
 
